@@ -2,7 +2,7 @@
 title = "Certified Ethical Hacker (CEH) v9"
 date = "2019-09-18 00:45:20.897 +0700"
 author = "Badigsofter"
-tags = ["CyberTraining","VideoCourse"]
+tags = ["CyberTraining","VideoCourse","CEH"]
 description = "CEH (Certified Ethical Hacker) adalah salah satu tingkatan sertifikasi yang ditawarkan oleh EC-Council (lembaga sertifikasi di bidang cyber security), CEH sangat populer belakangan ini karena rangkaian pembelajaran yang diajarkan sangat unik."
 +++
 
