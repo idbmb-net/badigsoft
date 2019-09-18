@@ -12,6 +12,6 @@ Kami tidak hanya menyediakan yang versi berbayar, Bahkan yang **GRATIS** juga ba
 
 Badigsoft berdasarkan slogan **"Searching, Learning & Sharing"**. Kami selalu berusaha dengan banyak upaya untuk mewujudkan hal ini.
 
-Web yang sangat kecil ini cukup mendasar dan mencakup semua hal penting. Yang harus Anda lakukan adalah mulai menjelajah dan mendukung kami dengan cara MEMBELI produk yang kami Jual. Karena **MEMBELI = MENDUKUNG** begitu besar harapan kami.
+Web yang sangat kecil ini cukup mendasar dan mencakup semuanya. Yang harus Anda lakukan adalah mulai **EXPLORE** dan **SUPPORT** kami dengan cara MEMBAGIKAN web ini atau MEMBELI produk yang kami Jual. begitu besar harapan kami. Karena **MEMBELI = MENDUKUNG**
 
-So, there you have it... enjoy!
+**So, there you have it... enjoy!**
