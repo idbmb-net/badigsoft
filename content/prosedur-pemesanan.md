@@ -28,7 +28,7 @@ Paket :
 (Paket TOD / LT)
 -----------------------------------------
 ```
-**Kirim via wa/telegram ke 085810114636 atau bisa langsung klik link dibawah ini :**
+**Kirim via wa/telegram ke 085810114636 atau langsung klik link dibawah ini :**
 {{% link-button-sc href="https://wa.me/6285810114636" class="my-button --raised crazy-button" value="Kirim Order via Whatsapp →" %}}
 {{% link-button-sc href="https://t.me/Badigsoft" class="my-button --raised crazy-button" value="Kirim Order via Telegram →" %}}
 
