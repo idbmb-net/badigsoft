@@ -3,6 +3,11 @@ languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
@@ -37,7 +42,7 @@ paginate = 5
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "Home"
-        name = "./Home"
+        name = "/Home"
         url = "/"
       [[languages.en.menu.main]]
         identifier = "about"
@@ -47,3 +52,7 @@ paginate = 5
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
+      [[languages.en.menu.main]]
+        identifier = "prosedur-pemesanan"
+        name = "Cara Order"
+        url = "/prosedur-pemesanan"

@@ -1,22 +1,17 @@
 +++
 title = "About"
-date = "2019-01-25"
-author = "Radek"
+date = "2019-09-18 00:45:20.897 +0700"
+author = "Administrator"
 +++
 
 # Hi there
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+**Badigsoft Store** adalah Toko Online yang menyediakan file-file video training **PREMIUM** dengan harga yang sangat terjangkau. So Jangan Khawatir, Kalo ada yg **MURAH** Kenapa harus ragu-ragu untuk membeli.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+Kami tidak hanya menyediakan yang versi berbayar, Bahkan yang **GRATIS** juga banyak kita share di Channel [**Telegram**](https://t.me/IdbmbNetwork).
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+Badigsoft berdasarkan slogan **"Searching, Learning & Sharing"**. Kami selalu berusaha dengan banyak upaya untuk mewujudkan hal ini.
 
-The theme includes:
-
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **realy nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
+Web yang sangat kecil ini cukup mendasar dan mencakup semua hal penting. Yang harus Anda lakukan adalah mulai menjelajah dan mendukung kami dengan cara MEMBELI produk yang kami Jual. Karena **MEMBELI = MENDUKUNG** begitu besar harapan kami.
 
 So, there you have it... enjoy!
