@@ -6,7 +6,7 @@ author = "Administrator"
 
 # Hi there
 
-**Badigsoft Store** adalah Toko Online yang menyediakan file-file video training **PREMIUM** dengan harga yang sangat terjangkau. So Jangan Khawatir, Kalo ada yg **MURAH** dan bukan murahan Kenapa harus ragu-ragu untuk membeli.
+**Badigsoft** adalah Toko Online yang menyediakan file-file video training **PREMIUM** dengan harga yang sangat terjangkau. So Jangan Khawatir, Kalo ada yg **MURAH** dan bukan murahan Kenapa harus ragu-ragu untuk membeli.
 
 Kami tidak hanya menyediakan yang versi berbayar, Bahkan yang **GRATIS** juga banyak kita share di Channel [**Telegram**](https://t.me/IdbmbNetwork).
 

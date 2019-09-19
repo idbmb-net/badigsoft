@@ -41,8 +41,8 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "Home"
-        name = "/Home"
+        identifier = "produk"
+        name = "Produk"
         url = "/"
       [[languages.en.menu.main]]
         identifier = "about"
