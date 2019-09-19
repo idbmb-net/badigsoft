@@ -4,7 +4,7 @@ date = "2019-09-18 00:45:20.897 +0700"
 author = "Badigsofter"
 +++
 
-# Hi there
+# Hi Badigsofter's
 
 **Badigsoft** adalah Toko Online yang menyediakan file-file video training **PREMIUM** dengan harga yang sangat terjangkau. So Jangan Khawatir, Kalo ada yg **MURAH** dan bukan murahan Kenapa harus ragu-ragu untuk membeli.
 
@@ -14,4 +14,4 @@ Badigsoft berdasarkan slogan **"Searching, Learning & Sharing"**. Kami selalu be
 
 Web yang sangat kecil ini cukup mendasar dan mencakup semuanya. Yang harus Anda lakukan adalah mulai **EXPLORE** dan **SUPPORT** kami dengan cara MEMBAGIKAN / MEMBELI produk yang kami Jual. Begitu besar harapan kami, Karena dengan **MEMBELI = MENDUKUNG**
 
-**So, there you have it... enjoy!**
+##### So, there you have it... enjoy!
