@@ -13,7 +13,7 @@ Video Kursus ini cocok untuk kamu yang mempersiapkan untuk ujian CEH - Certified
 #### Kode Produk :
 - CEHV9
 
-#### Isinya :
+#### Isi :
 - Total : 237 Video
 - Kapasitas : 10,1 GB
 
@@ -37,10 +37,12 @@ Video Kursus ini cocok untuk kamu yang mempersiapkan untuk ujian CEH - Certified
 17. CEH - Cloud Computing
 18. CEH - Cryptography
 
+#### Harga :
 |        Paket        |   Harga  |       Keterangan       |
 |:-------------------:|:--------:|:----------------------:|
-| TOD (Trial One Day) | IDR 20K  | Link aktif hanya 24Jam |
-| LT (Lifetime)       | IDR 200K | Link aktif Selamanya   |
-Harga Sewaktu-waktu dapat berubah.
+| TOD (Trial One Day) | **IDR 20K**  | Link aktif hanya 24Jam |
+| LT (Lifetime)       | **IDR 200K** | Link aktif Selamanya   |
+
+*[Harga Sewaktu-waktu dapat berubah]*
 
 [![Order Sekarang!](../../static/img/order.png)](../../prosedur-pemesanan/)
