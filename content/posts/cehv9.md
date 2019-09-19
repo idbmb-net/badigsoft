@@ -43,6 +43,6 @@ Video Kursus ini cocok untuk kamu yang mempersiapkan untuk ujian CEH - Certified
 | TOD (Trial One Day) | **IDR 20K**  | Link aktif hanya 24Jam |
 | LT (Lifetime)       | **IDR 200K** | Link aktif Selamanya   |
 
-*[Harga Sewaktu-waktu dapat berubah]*
+**Harga Sewaktu-waktu dapat berubah*
 
-[![Order Sekarang!](../../static/img/order.png)](../../prosedur-pemesanan/)
+[![Order Sekarang!](../../static/img/order.png)](../../order/)

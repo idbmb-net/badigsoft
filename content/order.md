@@ -1,8 +1,9 @@
 ---
 title: "Cara Order"
+date : "2019-09-19 00:45:20.897 +0700"
+author : "Badigsofter"
 ---
 
-#### PROSEDUR PEMESANAN :
 **Produk berupa link Google Drive**
 
 Agan buat orderannya terlebih dahulu. (*Format Orderan Terlampir dibawah*)
@@ -32,8 +33,8 @@ Paket :
 {{% link-button-sc href="https://wa.me/6285810114636" class="my-button --raised crazy-button" value="Kirim Order via Whatsapp →" %}}
 {{% link-button-sc href="https://t.me/Badigsoft" class="my-button --raised crazy-button" value="Kirim Order via Telegram →" %}}
 
-Jika ada kendala, jangan sungkan untuk kontak kami via chat atau Join Group Telegram https://t.me/IdbmbNetworkOfficial
+Jika ada kendala, jangan sungkan untuk kontak kami via chat atau Join Group [Telegram.](https://t.me/IdbmbNetwork)
 
 Terima kasih,
 
-Salam Sukses.
+Semoga Sukses gan.

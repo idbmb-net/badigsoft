@@ -1,7 +1,7 @@
 +++
 title = "About"
 date = "2019-09-18 00:45:20.897 +0700"
-author = "Administrator"
+author = "Badigsofter"
 +++
 
 # Hi there
