@@ -8,7 +8,7 @@ author = "Badigsofter"
 
 **Badigsoft** adalah Toko Online yang menyediakan file-file CyberTraining Video Course **PREMIUM** dengan harga yang sangat terjangkau. So Jangan Khawatir, Kalo ada yg **MURAH** dan bukan murahan Kenapa harus ragu-ragu untuk membeli.
 
-Kami tidak hanya membagikan CyberTraining Video Course versi Premium yg berbayar... Tenang aja Versi **GRATIS** juga sudah banyak dibagikan di Channel [**Telegram**](https://t.me/IdbmbNetwork).
+Kami tidak hanya membagikan CyberTraining Video Course versi **PREMIUM**, Tenang aja versi **GRATIS** dari berbagai sumber juga sudah banyak dibagikan di Channel [**Telegram**](https://t.me/IdbmbNetwork).
 
 Badigsoft berdasarkan slogan **"Searching, Learning & Sharing"**. Kami selalu berusaha dengan banyak upaya untuk mewujudkan hal ini.
 
