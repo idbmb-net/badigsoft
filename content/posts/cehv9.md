@@ -20,7 +20,7 @@ Video Kursus ini cocok untuk kamu yang mempersiapkan untuk ujian CEH - Certified
 
 #### Isi :
 - Total : 237 Video
-- Kapasitas : 10,1 GB
+- Kapasitas : ± 10,1 GB
 
 #### Meliputi :
 1. CEH - Introduction to Ethical Hacking
